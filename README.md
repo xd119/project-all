@@ -1,0 +1,2 @@
+# project-all
+just library
